@@ -7,5 +7,8 @@ A reworked layout of Unexpected Maker's 7SegNeo Display project. Chain modules t
 
 Assembly Required:
 Each moduled has a resistor footprint at the Data In line. The first module in the chain requires a ~220-330 ohm resistor soldered here. Each moduled next in the chain requires this jumper closed; 0-ohm resistor or just a solder blob.
+![P1100470 - Copy](https://github.com/user-attachments/assets/85c101c0-1d2d-42f9-a69e-186f49d5e1fe)
 
 Change list: bumped-up passives footprint to 1206, finessed trace/ copper pour layout; slightly larger PCB area, larger mounting holes, decimal place pixel same footprint as all other pixels.
+Created some 3D printable mounting brackets to expidite building projects like a clock/scoreboard. 
+
