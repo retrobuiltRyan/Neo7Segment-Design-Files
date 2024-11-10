@@ -1,22 +1,10 @@
-# Neo7Segment-Design-Files
-PCB Design files for the Neo7Segment Display
+KiCAD 8.x files
+A reworked layout of Unexpected Maker's 7SegNeo Display project. Chain modules together to make a large 7-segment display! Control via any micro-controller just like you would control a strip of RGB LEDs.
 
-I've included EagleCAD (8.7.x) files as well as gerber files
+![fart neo7seg good gif](https://github.com/user-attachments/assets/3b003526-7364-4982-a5ff-64db2d3d8d25)
+![P1100468](https://github.com/user-attachments/assets/04991485-a8a6-4b6f-b4c0-e9e1891ce40b)
 
-# Back me on Patreon?
-I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
+Assembly Required:
+Each moduled has a resistor footprint at the Data In line. The first module in the chain requires a ~220-330 ohm resistor soldered here. Each moduled next in the chain requires this jumper closed; 0-ohm resistor or just a solder blob.
 
-If you find this project useful or want to see more open source projects like it, please consider backing me on Patreon to say thanks!
-
-[![patreon](http://3sprockets.com.au/um/PatreonSmall.jpg)](https://www.patreon.com/unexpectedmaker)
-
-# Unexpected Maker
-http://youtube.com/c/unexpectedmaker
-
-http://twitter.com/unexpectedmaker
-
-https://www.facebook.com/unexpectedmaker/
-
-https://www.instagram.com/unexpectedmaker/
-
-https://www.tindie.com/stores/seonr/
+Change list: bumped-up passives footprint to 1206, finessed trace/ copper pour layout; slightly larger PCB area, larger mounting holes, decimal place pixel same footprint as all other pixels.
