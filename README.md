@@ -14,3 +14,4 @@ Each moduled has a resistor footprint at the Data In line. The first module in t
 Change list: bumped-up passives footprint to 1206, finessed trace/ copper pour layout; slightly larger PCB area, larger mounting holes, decimal place pixel same footprint as all other pixels.
 Created some 3D printable mounting brackets to expidite building projects like a clock/scoreboard. 
 
+RGBLEDs: 1568-16347CT-ND or https://www.aliexpress.us/item/3256802466699315.html
