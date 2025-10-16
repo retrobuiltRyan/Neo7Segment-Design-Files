@@ -2,7 +2,8 @@ KiCAD 8.x files created.
 
 A reworked layout of Unexpected Maker's 7SegNeo Display project. Chain these addressable LED modules together to make a large 7-segment display. Control via any micro-controller just like you would control a strip of RGB LEDs. Custom library made by Unexpected Maker.
 
-<img width="597" height="871" alt="image" src="https://github.com/user-attachments/assets/36212a00-20d6-4030-8b4b-fde49dd1cd00" />
+<img width="563" height="855" alt="image" src="https://github.com/user-attachments/assets/34dde645-128b-4588-89ee-fc10c69d71ae" />
+
 
 
 ![fart neo7seg good gif](https://github.com/user-attachments/assets/3b003526-7364-4982-a5ff-64db2d3d8d25)
